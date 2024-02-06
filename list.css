@@ -1,0 +1,17 @@
+.row{
+    border: 2px solid red;
+    height: 800px;
+    width: 100%;
+}
+.abc1{
+    float: left;
+    border: 2px solid blue;
+    height: 796px;
+    width: 69%;
+}
+.abc2{
+    float: left;
+    border: 2px solid blue;
+    height: 796px;
+    width: 29%;
+}
